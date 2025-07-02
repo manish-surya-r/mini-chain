@@ -63,8 +63,11 @@ python main.py
 ```
 
 You’ll see output like:
+
+```bash
 Block #1 has been added to the blockchain!
 Hash: 89b0e2...
 
 Block #2 has been added to the blockchain!
 Hash: a7d231...
+```
